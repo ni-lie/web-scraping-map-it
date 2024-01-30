@@ -1,5 +1,5 @@
 # web-scraping-map-it
-A simple python script that automatically launches google map in your browser with an address specified in either the clipboard or command line.
+A simple python script that automatically launches google map in your browser with address (geolocation point) specified in either the clipboard or command line.
 
 # Usage
 You can run the program in two ways:
